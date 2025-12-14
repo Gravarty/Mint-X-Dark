@@ -1,3 +1,12 @@
-# Mint-X-Dark
+# Mint-X Dark Theme
 
-This is my own attempt of creating a perfect dark theme of Mint-X. The Linux Mint already created a dark theme for Mint-X but it's only usable for selected apps. This theme uses that color scheme and applys it across the entire system. GTK3 support is 100% done. GTK2 is still using the original white theme, since i haven't done the bitmaps yet. I don't care about libadwaita, since i use MATE, so i'll never touch these folders.
+This is my attempt at creating a complete dark theme for Mint-X. Linux Mint provides a dark variant of Mint-X, but it is only applied to selected applications. This theme extends that color scheme across the entire system.  
+
+I also included a modified Mint-X icon theme, that has been adapted to work nicely with dark themes.
+
+- **GTK3**: Fully supported  
+- **GTK2**: Still uses the original light theme, as the bitmaps are not yet updated  
+- **Libadwaita**: Not supported, since I use MATE and will not modify these folders  
+
+The goal is a consistent dark experience across all GTK3 applications while retaining compatibility with MATE.
+
