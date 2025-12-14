@@ -10,5 +10,5 @@ I also included a modified Mint-X icon theme, that has been adapted to work nice
 - **GTK2**: Basic GTK2 support implemented. Still many bitmaps to go.
 - **Libadwaita**: Not supported, since I use MATE and will not modify these folders  
 
-The goal is a consistent dark experience across all GTK3 applications while retaining compatibility with MATE.
+The goal is a consistent dark experience across all GTK applications while retaining compatibility with MATE.
 
