@@ -2,34 +2,34 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="button-active.svg">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="button-active.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3774">
       <stop
-         style="stop-color:#999999;stop-opacity:1;"
+         style="stop-color:#171717;stop-opacity:1;"
          offset="0"
          id="stop3776" />
       <stop
          id="stop3782"
          offset="0.2876724"
-         style="stop-color:#b8b8b8;stop-opacity:1;" />
+         style="stop-color:#262626;stop-opacity:1;" />
       <stop
-         style="stop-color:#b8b8b8;stop-opacity:1;"
+         style="stop-color:#262626;stop-opacity:1;"
          offset="1"
          id="stop3778" />
     </linearGradient>
@@ -47,11 +47,11 @@
     <linearGradient
        id="linearGradient3767">
       <stop
-         style="stop-color:#000000;stop-opacity:0.1;"
+         style="stop-color:#131313;stop-opacity:0.10196079;"
          offset="0"
          id="stop3769" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.06;"
+         style="stop-color:#242424;stop-opacity:0.05882353;"
          offset="1"
          id="stop3771" />
     </linearGradient>
@@ -80,23 +80,14 @@
     <linearGradient
        id="linearGradient3759">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#1f1f1f;stop-opacity:1;"
          offset="0"
          id="stop3761" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.5;"
+         style="stop-color:#1f1f1f;stop-opacity:1;"
          offset="1"
          id="stop3763" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3759"
-       id="linearGradient3765"
-       x1="8.0496531"
-       y1="1044.0924"
-       x2="8.0496531"
-       y2="1052.4611"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3786"
@@ -133,26 +124,34 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="8.5748448"
-     inkscape:cy="8.9101075"
+     inkscape:zoom="15.839192"
+     inkscape:cx="5.7136753"
+     inkscape:cy="10.069958"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:window-width="1212"
-     inkscape:window-height="847"
-     inkscape:window-x="623"
-     inkscape:window-y="130"
+     inkscape:window-height="768"
+     inkscape:window-x="142"
+     inkscape:window-y="-10"
      inkscape:window-maximized="0"
-     inkscape:snap-bbox="false">
+     inkscape:snap-bbox="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -162,7 +161,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,16 +170,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:none;stroke:url(#linearGradient3765);stroke-opacity:1"
-       id="rect3757"
-       width="15"
-       height="15"
-       x="0.5"
-       y="1036.8622"
-       rx="4"
-       ry="4" />
-    <rect
-       style="fill:url(#linearGradient3780);fill-opacity:1;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient3780);fill-opacity:1;stroke:#1f1f1f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3755"
        width="13"
        height="12.999965"

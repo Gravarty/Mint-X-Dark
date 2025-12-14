@@ -2,52 +2,52 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="30"
    height="30"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="notebook.svg">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="notebook.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3768">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#404040;stop-opacity:1;"
          offset="0"
          id="stop3770" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.80000001;"
+         style="stop-color:#404040;stop-opacity:0.80000001;"
          offset="1"
          id="stop3772" />
     </linearGradient>
     <linearGradient
        id="linearGradient3758">
       <stop
-         style="stop-color:#b2b2b2;stop-opacity:1;"
+         style="stop-color:#404040;stop-opacity:1;"
          offset="0"
          id="stop3760" />
       <stop
-         style="stop-color:#8c8c8c;stop-opacity:1;"
+         style="stop-color:#404040;stop-opacity:1;"
          offset="1"
          id="stop3762" />
     </linearGradient>
     <linearGradient
        id="linearGradient3788">
       <stop
-         style="stop-color:#000000;stop-opacity:0.05;"
+         style="stop-color:#1f1f1f;stop-opacity:1;"
          offset="0"
          id="stop3790" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.15000001;"
+         style="stop-color:#1f1f1f;stop-opacity:1;"
          offset="1"
          id="stop3792" />
     </linearGradient>
@@ -87,25 +87,33 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="7.9918576"
-     inkscape:cy="15.852905"
+     inkscape:zoom="11.2"
+     inkscape:cx="0.625"
+     inkscape:cy="14.151786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:window-width="1295"
-     inkscape:window-height="732"
-     inkscape:window-x="123"
-     inkscape:window-y="89"
-     inkscape:window-maximized="0">
+     inkscape:window-height="754"
+     inkscape:window-x="59"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3753"
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -115,7 +123,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,7 +132,7 @@
      id="layer1"
      transform="translate(0,-1022.3622)">
     <rect
-       style="fill:#ececec;fill-opacity:1;stroke:url(#linearGradient3764);stroke-width:0.99999994000000003;stroke-opacity:1"
+       style="fill:#404040;fill-opacity:1;stroke:url(#linearGradient3764);stroke-width:0.99999994;stroke-opacity:1"
        id="rect3755"
        width="27"
        height="27.000017"

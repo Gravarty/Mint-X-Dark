@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="45"
    height="13"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="slider-h.svg">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="slider-h.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -32,11 +32,11 @@
     <linearGradient
        id="linearGradient3826">
       <stop
-         style="stop-color:#e8e8e8;stop-opacity:1;"
+         style="stop-color:#858585;stop-opacity:1;"
          offset="0"
          id="stop3829" />
       <stop
-         style="stop-color:#d1d1d1;stop-opacity:1;"
+         style="stop-color:#454545;stop-opacity:1;"
          offset="1"
          id="stop3831" />
     </linearGradient>
@@ -329,10 +329,10 @@
     <filter
        inkscape:collect="always"
        id="filter3868"
-       x="-0.15096281"
-       width="1.3019257"
-       y="-0.036411878"
-       height="1.0728238"
+       x="-0.20137269"
+       width="1.4027454"
+       y="-0.048570626"
+       height="1.0971413"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -379,16 +379,6 @@
        y2="1029.8622"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.8010894,0,0,0.9548407,1024.6552,-989.8544)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3830"
-       id="linearGradient3836"
-       x1="1"
-       y1="1029.8622"
-       x2="11.999999"
-       y2="1029.8622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.59867954,0,0,0.95234401,1025.9708,-987.28304)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -398,21 +388,24 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.075517"
-     inkscape:cx="16.131783"
-     inkscape:cy="6.122242"
+     inkscape:cx="16.152017"
+     inkscape:cy="6.1357763"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="996"
-     inkscape:window-height="906"
-     inkscape:window-x="845"
-     inkscape:window-y="90"
+     inkscape:window-width="1186"
+     inkscape:window-height="768"
+     inkscape:window-x="168"
+     inkscape:window-y="-10"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3817"
@@ -421,7 +414,10 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="16px"
-       originy="-15.9872px" />
+       originy="-15.9872px"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -431,7 +427,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -441,7 +436,7 @@
      id="layer1"
      transform="translate(16,-1023.375)">
     <rect
-       style="fill:url(#linearGradient3833);fill-opacity:1;stroke:#999999;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:url(#linearGradient3833);fill-opacity:1;stroke:#353535;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4020"
        width="8.0000172"
        height="42"
@@ -460,15 +455,5 @@
        rx="5.1026101"
        ry="4.1801486"
        transform="matrix(0,0.91926547,-0.90072965,0,935.89418,1026.4297)" />
-    <rect
-       style="fill:none;stroke:url(#linearGradient3836);stroke-width:1.03300011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3828"
-       width="5.9670377"
-       height="39.967003"
-       x="1026.8787"
-       y="-26.4835"
-       rx="3"
-       ry="3"
-       transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>
