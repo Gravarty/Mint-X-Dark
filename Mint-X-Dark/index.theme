@@ -6,6 +6,6 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Mint-X-Dark
-MetacityTheme=Mint-X
+MetacityTheme=Mint-X-Dark
 IconTheme=Mint-X-Icons-Dark
 CursorTheme=default

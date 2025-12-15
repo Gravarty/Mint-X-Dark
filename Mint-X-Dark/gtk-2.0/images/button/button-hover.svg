@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="button (Kopie).svg"
+   sodipodi:docname="button-hover.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -43,11 +43,11 @@
     <linearGradient
        id="linearGradient3767">
       <stop
-         style="stop-color:#6b6b6b;stop-opacity:1;"
+         style="stop-color:#989898;stop-opacity:1;"
          offset="0"
          id="stop3769" />
       <stop
-         style="stop-color:#3f3f3f;stop-opacity:0.10196079;"
+         style="stop-color:#383838;stop-opacity:0.10196079;"
          offset="1"
          id="stop3771" />
     </linearGradient>
@@ -139,7 +139,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="4.3247156"
+     inkscape:cx="4.3878501"
      inkscape:cy="6.4712897"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -147,8 +147,8 @@
      inkscape:snap-global="false"
      inkscape:window-width="1212"
      inkscape:window-height="768"
-     inkscape:window-x="142"
-     inkscape:window-y="-10"
+     inkscape:window-x="132"
+     inkscape:window-y="14"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:showpageshadow="2"
