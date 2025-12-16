@@ -1,6 +1,9 @@
 # Mint-X Dark Theme
 
+Support for GTK3 and GTK2
 ![the beloved Mint-X now in proper dark-mode!](ScreenshotNEW.png)
+
+The classic Linux Mint dark panel
 ![Including the classic cinnamon panel theme!](LinuxMint.png)
 
 This is my attempt at creating a complete dark theme for Mint-X. Linux Mint provides a dark variant of Mint-X, but it is only applied to selected applications. This theme extends that color scheme across the entire system.  
